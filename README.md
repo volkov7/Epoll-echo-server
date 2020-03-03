@@ -10,4 +10,4 @@ Task is to create epoll echo server that:
 # Installing and running:
 Install: ''' make '''
 Running: '''./server '''
-![Server](https://github.com/volkov7/Epoll-echo-server/raw/master/Server.png)
+![Server](https://github.com/volkov7/Epoll-echo-server/raw/master/epoll_server.png)
