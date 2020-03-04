@@ -9,8 +9,8 @@ Task is to create epoll echo server that:
 - GNU make
 # Installing and running:
 Install: 
-'''
+```
 make
-'''
-Running: '''./server '''
+```
+Running: ```./server ```
 ![Server](https://github.com/volkov7/Epoll-echo-server/raw/master/epoll_server.png)
