@@ -13,5 +13,7 @@ Install:
 make
 ```
 Running:
-```./server ```
+```
+./server
+```
 ![Server](https://github.com/volkov7/Epoll-echo-server/raw/master/epoll_server.png)
