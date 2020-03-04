@@ -19,7 +19,7 @@
 # define EPOLL_SIZE			256
 # define BUF_SIZE			512
 # define EPOLL_RUN_TIMEOUT	-1
-# define STR_WELCOME 		"\t\tWelcome to VolkkeRServer!\n"
+# define STR_WELCOME 		"\t\tWelcome to VolkkeR-Server!\n"
 
 typedef struct 	s_client_list
 {
