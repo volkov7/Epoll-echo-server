@@ -1,4 +1,6 @@
 # The (learning) goals of the project:
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
+
 Task is to create epoll echo server that:
 - Listens the predefined ip address and port, and "register" all clients.
 - Identifies each new client when connecting.
